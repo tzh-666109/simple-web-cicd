@@ -37,7 +37,7 @@ HTML = """<!DOCTYPE html>
     <div class="card">
         <h1>🚀 CI/CD 部署成功！</h1>
         <p class="student">学号：2440666109</p><p class="student">姓名：谭镇晖</p>
-        <p class="version2">Flask App v1.0 | Python {{ python_version }}</p>
+        <p class="version2">Flask App v2.0 | Python {{ python_version }}</p>
         <div class="status">✅ 服务运行正常</div>
         <div class="info">
             <p><span>容器 ID：</span>{{ hostname }}</p>
